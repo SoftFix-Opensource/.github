@@ -6,7 +6,7 @@
 
 ### Building Open-Source Software for Developers
 
-Reliable, scalable, and well-documented libraries, packages, SDKs, APIs, and developer tools — free to use, easy to contribute to, and built for production.
+Reliable, scalable, and well-documented libraries, packages, SDKs, APIs, and developer tools free to use, easy to contribute to, and built for production.
 
 [![Open Source](https://img.shields.io/badge/Open-Source-3DA639.svg)](https://github.com/SoftFix-Opensource)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
